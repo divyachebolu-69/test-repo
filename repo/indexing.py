@@ -1,2 +1,2 @@
-name = "qwertyuiop"
+name = "father"
 print(name . find ("t"))
