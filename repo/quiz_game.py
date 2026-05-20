@@ -25,8 +25,10 @@ if answer . lower()== "artificial intelliegence":
     score += 1
 else:
     print('false')
+    
     print("you got " + str(score) + "questions correct!")
     print("you got " + str(score / 3))
+
 
 
 
